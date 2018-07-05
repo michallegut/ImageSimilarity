@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sun-jai_core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/sun-jai_core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
